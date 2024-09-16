@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "How to Take Care of Your Cat",
+    "content": "Caring for your cat is important for its health and well-being...",
+    "category": "PETCARE"
+  },
+  {
+    "id": 2,
+    "title": "Feeding Your Cat",
+    "content": "Cats require a balanced diet with proteins and other nutrients...",
+    "category": "HEALTH"
+  }
+]
